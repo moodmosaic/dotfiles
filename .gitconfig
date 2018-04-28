@@ -1,0 +1,6 @@
+[user]
+  email = nikos.baxevanis@gmail.com
+  name = Nikos Baxevanis
+
+[alias]
+  pr = !git fetch origin refs/pull/$1/head:pr$1 && :
