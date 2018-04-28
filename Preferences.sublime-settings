@@ -1,0 +1,38 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+  "default_encoding": "UTF-8",
+  "default_line_ending": "unix",
+  "detect_indentation": false,
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    "*.pyc",
+    ".DS_Store",
+    ".Spotlight-V100",
+    ".Trashes",
+    "._*",
+    "Desktop.ini",
+    "Thumbs.db"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    "node_modules",
+    "XCOPY"
+  ],
+  "font_face": "Courier",
+  "font_size": 11,
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "rulers":
+  [
+    79
+  ],
+  "show_encoding": true,
+  "show_line_endings": true,
+  "tab_size": 2,
+  "theme": "Default.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
