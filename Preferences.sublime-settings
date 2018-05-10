@@ -21,8 +21,6 @@
     "node_modules",
     "XCOPY"
   ],
-  "font_face": "Courier",
-  "font_size": 11,
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "rulers":
