@@ -1,6 +1,5 @@
 {
   "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-  "default_encoding": "UTF-8",
   "default_line_ending": "unix",
   "detect_indentation": false,
   "draw_white_space": "all",
@@ -18,9 +17,12 @@
   "folder_exclude_patterns":
   [
     ".git",
+    ".stack-work",
+    "_site",
     "node_modules",
     "XCOPY"
   ],
+  "font_size": 11,
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "rulers":
