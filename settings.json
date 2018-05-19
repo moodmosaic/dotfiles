@@ -1,0 +1,12 @@
+{
+  "editor.codeLens": false,
+  "editor.detectIndentation": false,
+  "editor.fontSize": 15,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2,
+  "files.encoding": "utf8",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "vs-minimal"
+}
