@@ -20,9 +20,9 @@
     ".stack-work",
     "_site",
     "node_modules",
-    "XCOPY"
+    "mp3",
+    "win"
   ],
-  "font_size": 11,
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "rulers":
