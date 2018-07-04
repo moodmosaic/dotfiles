@@ -1,0 +1,1 @@
+ConEmu64.exe -basic -run {git bash}
