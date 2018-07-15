@@ -1,2 +1,5 @@
 # Title bar
 #60615E
+
+# Desktop background
+background: linear-gradient(135deg, #A9C8C8 0%, #A8B3C2 100%);
