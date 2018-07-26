@@ -27,7 +27,8 @@
   "line_padding_top": 1,
   "rulers":
   [
-    79
+    79,
+    99
   ],
   "show_encoding": true,
   "show_line_endings": true,
