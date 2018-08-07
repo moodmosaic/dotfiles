@@ -9,4 +9,5 @@
   g3 = !git log --all --decorate --oneline --graph
 
 [core]
+  autocrlf = true
   editor = vim
