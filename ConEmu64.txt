@@ -1,6 +1,6 @@
 ConEmu64.exe -basic -run {git bash}
 
 # Status bar
-55 55 55
-253 246 227
-96 97 94
+41 41 41
+211 211 211
+91 91 91
