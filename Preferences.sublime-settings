@@ -1,5 +1,5 @@
 {
-  "color_scheme": "Packages/User/Color Scheme - Legacy/Solarized (Dark).tmTheme",
+  "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
   "default_line_ending": "unix",
   "detect_indentation": false,
   "draw_white_space": "all",
@@ -19,7 +19,9 @@
     ".git",
     ".stack-work",
     "_site",
-    "node_modules"
+    "node_modules",
+    "bin",
+    "mp3"
   ],
   "font_size": 11,
   "line_padding_bottom": 1,
