@@ -1,6 +1,18 @@
 ConEmu64.exe -basic -run {git bash}
 
+C:\Snapshot\bin\ConEmuPack\ConEmu64.exe -basic -run {git bash} -new_console:C:"C:\Snapshot\dotfiles\empty.ico"
+
 # Status bar
-41 41 41
+41 41 41 -or- 2 16 20 (Sublime's Solarized status bar color)
 211 211 211
 91 91 91
+
+Is there a way to get (or hide) icons on the tabs in ConEmu?
+https://superuser.com/q/609418/135094
+
+Yes, in the Settings menu, specify the following in the Task parameters:
+/icon "C:\Snapshot\dotfiles\empty.ico"
+https://superuser.com/a/750902/135094
+
+$ cmd
+C:\Snapshot>C:\Windows\System32\cmd.exe /E:ON /K C:\Ruby24-x64\bin\setrbvars.cmd
