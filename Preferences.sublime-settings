@@ -1,5 +1,5 @@
 {
-  "color_scheme": "Packages/User/Color Scheme - Legacy/Solarized (Dark).tmTheme",
+  "color_scheme": "Packages/User/Color Scheme - Legacy/Solarized (Light).tmTheme",
   "default_line_ending": "unix",
   "detect_indentation": false,
   "draw_white_space": "all",
@@ -12,7 +12,8 @@
     ".Trashes",
     "._*",
     "Desktop.ini",
-    "Thumbs.db"
+    "Thumbs.db",
+    "*.pdf"
   ],
   "folder_exclude_patterns":
   [
@@ -22,7 +23,8 @@
     "node_modules",
     "bin",
     "mp3",
-    ".gem"
+    ".gem",
+    "DCIM"
   ],
   "font_size": 11,
   "line_padding_bottom": 1,
