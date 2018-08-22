@@ -9,5 +9,16 @@
   g3 = !git log --all --decorate --oneline --graph
 
 [core]
-  autocrlf = true
   editor = vim
+  symlinks = false
+  autocrlf = true
+  fscache = true
+
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = true
+
+[rebase]
+  autosquash = true

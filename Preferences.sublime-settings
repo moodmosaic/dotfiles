@@ -1,5 +1,5 @@
 {
-  "color_scheme": "Packages/User/Color Scheme - Legacy/Solarized (Light).tmTheme",
+  "color_scheme": "Packages/User/Color Scheme - Solarized/Solarized (dark).sublime-color-scheme",
   "default_line_ending": "unix",
   "detect_indentation": false,
   "draw_white_space": "all",
@@ -13,7 +13,8 @@
     "._*",
     "Desktop.ini",
     "Thumbs.db",
-    "*.pdf"
+    "*.pdf",
+    "Capture.PNG"
   ],
   "folder_exclude_patterns":
   [
