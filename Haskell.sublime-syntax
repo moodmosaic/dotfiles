@@ -1,7 +1,7 @@
 %YAML 1.2
 ---
 # http://www.sublimetext.com/docs/3/syntax.html
-name: Haskell (improved)
+name: Haskell (custom)
 file_extensions:
   - hs
   - hsc
