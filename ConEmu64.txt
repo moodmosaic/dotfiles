@@ -1,9 +1,11 @@
 ConEmu64.exe -basic -run {git bash}
 
+%comspec% /k "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\VsDevCmd.bat"
+
 C:\Snapshot\bin\ConEmuPack\ConEmu64.exe -basic -run {git bash} -new_console:C:"C:\Snapshot\dotfiles\empty.ico"
 
 # Status bar
-41 41 41 -or- 2 16 20 (Sublime's Solarized status bar color)
+41 41 41 (Twilight) or 0 21 27 (Solarized)
 211 211 211
 91 91 91
 
