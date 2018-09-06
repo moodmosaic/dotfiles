@@ -1,8 +1,8 @@
 {
-  "color_scheme": "Packages/User/Color Scheme - Solarized/Solarized (dark).sublime-color-scheme",
+  "color_scheme": "Packages/User/Color Scheme - Legacy/SpaceCadet.tmTheme",
   "default_line_ending": "unix",
   "detect_indentation": false,
-  "draw_white_space": "all",
+  "draw_white_space": "selection",
   "ensure_newline_at_eof_on_save": true,
   "file_exclude_patterns":
   [
@@ -10,11 +10,7 @@
     ".DS_Store",
     ".Spotlight-V100",
     ".Trashes",
-    "._*",
-    "Desktop.ini",
-    "Thumbs.db",
-    "*.pdf",
-    "Capture.PNG"
+    "._*"
   ],
   "folder_exclude_patterns":
   [
@@ -22,10 +18,7 @@
     ".stack-work",
     "_site",
     "node_modules",
-    "bin",
-    "mp3",
-    ".gem",
-    "DCIM"
+    "bin"
   ],
   "font_size": 11,
   "line_padding_bottom": 1,
