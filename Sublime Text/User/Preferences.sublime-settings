@@ -1,28 +1,16 @@
 {
-  "color_scheme": "Packages/User/Color Scheme - Legacy/SpaceCadet.tmTheme",
+  "color_scheme": "Packages/User/Solarized/Solarized (dark).sublime-color-scheme",
   "default_line_ending": "unix",
   "detect_indentation": false,
   "draw_white_space": "selection",
   "ensure_newline_at_eof_on_save": true,
-  "file_exclude_patterns":
-  [
-    "*.pyc",
-    ".DS_Store",
-    ".Spotlight-V100",
-    ".Trashes",
-    "._*"
-  ],
   "folder_exclude_patterns":
   [
     ".git",
     ".stack-work",
     "_site",
-    "node_modules",
     "bin"
   ],
-  "font_size": 11,
-  "line_padding_bottom": 1,
-  "line_padding_top": 1,
   "rulers":
   [
     79,
