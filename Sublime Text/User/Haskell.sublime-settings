@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		"hs"
-	]
+  "color_scheme": "Packages/User/Hasky.tmTheme",
+  "extensions":
+  [
+    "hs"
+  ]
 }
