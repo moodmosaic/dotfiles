@@ -11,6 +11,10 @@
     "_site",
     "bin"
   ],
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
   "rulers":
   [
     79,
@@ -19,7 +23,8 @@
   "show_encoding": true,
   "show_line_endings": true,
   "tab_size": 2,
-  "theme": "Adaptive.sublime-theme",
+  "theme": "Monokai Classic.sublime-theme",
   "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false
 }
