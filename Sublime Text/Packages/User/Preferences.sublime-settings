@@ -9,7 +9,8 @@
     ".git",
     ".stack-work",
     "_site",
-    "bin"
+    "bin",
+    ".gem"
   ],
   "ignored_packages":
   [
