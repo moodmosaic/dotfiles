@@ -6,11 +6,11 @@
   "ensure_newline_at_eof_on_save": true,
   "folder_exclude_patterns":
   [
+    ".gem",
     ".git",
     ".stack-work",
     "_site",
-    "bin",
-    ".gem"
+    "bin/*"
   ],
   "ignored_packages":
   [
