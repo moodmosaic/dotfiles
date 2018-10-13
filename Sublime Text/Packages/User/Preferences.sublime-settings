@@ -1,5 +1,5 @@
 {
-  "color_scheme": "Packages/User/Hasky.tmTheme",
+  "color_scheme": "Packages/User/Hasky (Dark).tmTheme",
   "default_line_ending": "unix",
   "detect_indentation": false,
   "draw_white_space": "all",
@@ -10,7 +10,8 @@
     ".git",
     ".stack-work",
     "_site",
-    "bin/*"
+    "bin/*",
+    "*/dist*"
   ],
   "ignored_packages":
   [
@@ -24,7 +25,7 @@
   "show_encoding": true,
   "show_line_endings": true,
   "tab_size": 2,
-  "theme": "Monokai Classic.sublime-theme",
+  "theme": "Monokai Pro (Filter Spectrum).sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_wrap": false

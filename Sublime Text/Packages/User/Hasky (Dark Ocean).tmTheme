@@ -16,14 +16,14 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 <plist version="1.0">
   <dict>
     <key>name</key>
-    <string>Hasky (Dark)</string>
+    <string>Hasky (Ocean)</string>
     <key>settings</key>
     <array>
       <dict>
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#2b2a27</string>
+          <string>#1A1D23</string>
           <key>caret</key>
           <string>#f8f8f0</string>
           <key>foreground</key>
