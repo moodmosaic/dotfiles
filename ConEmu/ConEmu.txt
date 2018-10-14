@@ -1,11 +1,19 @@
-ConEmu64.exe -basic -run {git bash}
+ConEmu64.exe -basic -run {git bash} -new_console:C:"C:\Snapshot\dotfiles\empty.ico"
 
-%comspec% /k "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\VsDevCmd.bat"
+Status bar
 
-C:\Snapshot\bin\ConEmuPack\ConEmu64.exe -basic -run {git bash} -new_console:C:"C:\Snapshot\dotfiles\empty.ico"
+Twilight
+41 41 41
+211 211 211
+91 91 91
 
-# Status bar
-41 41 41 (Twilight) or 0 21 27 (Solarized)
+Solarized
+0 21 27
+211 211 211
+91 91 91
+
+Visual Studio
+30 30 30
 211 211 211
 91 91 91
 
@@ -15,6 +23,3 @@ https://superuser.com/q/609418/135094
 Yes, in the Settings menu, specify the following in the Task parameters:
 /icon "C:\Snapshot\dotfiles\empty.ico"
 https://superuser.com/a/750902/135094
-
-$ cmd
-C:\Snapshot>C:\Windows\System32\cmd.exe /E:ON /K C:\Ruby24-x64\bin\setrbvars.cmd
