@@ -17,6 +17,11 @@ Visual Studio
 211 211 211
 91 91 91
 
+Latest
+34 34 34
+<ConEmu>
+<ConEmu>
+
 Is there a way to get (or hide) icons on the tabs in ConEmu?
 https://superuser.com/q/609418/135094
 
