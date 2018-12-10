@@ -1,24 +1,9 @@
 [user]
-  email = nikos.baxevanis@gmail.com
   name = Nikos Baxevanis
+  email = nikos.baxevanis@gmail.com
 
 [alias]
   pr = !git fetch origin refs/pull/$1/head:pr$1 && :
-  g1 = !git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
-  g2 = !git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''%C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
-  g3 = !git log --all --decorate --oneline --graph
 
 [core]
-  editor = vim
-  symlinks = false
-  autocrlf = true
-  fscache = true
-
-[color]
-  diff = auto
-  status = auto
-  branch = auto
-  interactive = true
-
-[rebase]
-  autosquash = true
+  editor = subl
