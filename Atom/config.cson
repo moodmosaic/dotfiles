@@ -1,0 +1,15 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  "custom-invisibles":
+    crActive: false
+    eolActive: false
+  editor:
+    invisibles:
+      cr: " "
+      eol: " "
+    showInvisibles: true
+  "exception-reporting":
+    userId: "20decd0e-7d69-4ead-9761-221abb959282"
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
