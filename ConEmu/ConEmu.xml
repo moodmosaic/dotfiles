@@ -257,7 +257,7 @@
 			<value name="StatusFontCharSet" type="ulong" data="0"/>
 			<value name="StatusFontHeight" type="long" data="12"/>
 			<value name="StatusBar.Color.Back" type="dword" data="000c0c0c"/>
-			<value name="StatusBar.Color.Light" type="dword" data="00e3f6fd"/>
+			<value name="StatusBar.Color.Light" type="dword" data="00f8ffff"/>
 			<value name="StatusBar.Color.Dark" type="dword" data="00cccccc"/>
 			<value name="StatusBar.Hide.VCon" type="hex" data="00"/>
 			<value name="StatusBar.Hide.CapsL" type="hex" data="01"/>
