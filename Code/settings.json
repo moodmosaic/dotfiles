@@ -8,16 +8,10 @@
     79,
     99
   ],
-  "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
-  "files.exclude": {
-    "**/bin": true
-  },
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "window.menuBarVisibility": "default",
-  "workbench.statusBar.feedback.visible": false
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 }
