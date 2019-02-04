@@ -1,9 +1,0 @@
-[user]
-  name = Nikos Baxevanis
-  email = nikos.baxevanis@gmail.com
-
-[alias]
-  pr = !git fetch origin refs/pull/$1/head:pr$1 && :
-
-[core]
-  editor = subl
