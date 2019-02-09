@@ -17,14 +17,14 @@
 			<value name="ColorTable05" type="dword" data="00981788"/>
 			<value name="ColorTable06" type="dword" data="00009cc1"/>
 			<value name="ColorTable07" type="dword" data="00cccccc"/>
-			<value name="ColorTable08" type="dword" data="000cc616"/>
+			<value name="ColorTable08" type="dword" data="00767676"/>
 			<value name="ColorTable09" type="dword" data="00ff783b"/>
-			<value name="ColorTable10" type="dword" data="00d6d661"/>
-			<value name="ColorTable11" type="dword" data="005648e7"/>
-			<value name="ColorTable12" type="dword" data="009e00b4"/>
-			<value name="ColorTable13" type="dword" data="00a5f1f9"/>
-			<value name="ColorTable14" type="dword" data="00f2f2f2"/>
-			<value name="ColorTable15" type="dword" data="00ffffff"/>
+			<value name="ColorTable10" type="dword" data="000cc616"/>
+			<value name="ColorTable11" type="dword" data="00d6d661"/>
+			<value name="ColorTable12" type="dword" data="005648e7"/>
+			<value name="ColorTable13" type="dword" data="009e00b4"/>
+			<value name="ColorTable14" type="dword" data="00a5f1f9"/>
+			<value name="ColorTable15" type="dword" data="00f2f2f2"/>
 			<value name="ColorTable16" type="dword" data="00000000"/>
 			<value name="ColorTable17" type="dword" data="00800000"/>
 			<value name="ColorTable18" type="dword" data="00008000"/>
@@ -700,14 +700,14 @@
 					<value name="ColorTable05" type="dword" data="00981788"/>
 					<value name="ColorTable06" type="dword" data="00009cc1"/>
 					<value name="ColorTable07" type="dword" data="00cccccc"/>
-					<value name="ColorTable08" type="dword" data="000cc616"/>
+					<value name="ColorTable08" type="dword" data="00767676"/>
 					<value name="ColorTable09" type="dword" data="00ff783b"/>
-					<value name="ColorTable10" type="dword" data="00d6d661"/>
-					<value name="ColorTable11" type="dword" data="005648e7"/>
-					<value name="ColorTable12" type="dword" data="009e00b4"/>
-					<value name="ColorTable13" type="dword" data="00a5f1f9"/>
-					<value name="ColorTable14" type="dword" data="00f2f2f2"/>
-					<value name="ColorTable15" type="dword" data="00ffffff"/>
+					<value name="ColorTable10" type="dword" data="000cc616"/>
+					<value name="ColorTable11" type="dword" data="00d6d661"/>
+					<value name="ColorTable12" type="dword" data="005648e7"/>
+					<value name="ColorTable13" type="dword" data="009e00b4"/>
+					<value name="ColorTable14" type="dword" data="00a5f1f9"/>
+					<value name="ColorTable15" type="dword" data="00f2f2f2"/>
 					<value name="ColorTable16" type="dword" data="00000000"/>
 					<value name="ColorTable17" type="dword" data="00800000"/>
 					<value name="ColorTable18" type="dword" data="00008000"/>
