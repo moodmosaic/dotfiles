@@ -683,7 +683,7 @@
 				<value name="Count" type="long" data="0"/>
 			</key>
 			<key name="Colors" modified="2018-12-04 11:24:46" build="161206">
-				<value name="Count" type="long" data="2"/>
+				<value name="Count" type="long" data="1"/>
 				<key name="Palette1" modified="2018-12-03 19:02:41" build="161206">
 					<value name="Name" type="string" data="Command Prompt (New Default RGB Values)"/>
 					<value name="ExtendColors" type="hex" data="00"/>
