@@ -685,7 +685,7 @@
 			<key name="Colors" modified="2018-12-04 11:24:46" build="161206">
 				<value name="Count" type="long" data="1"/>
 				<key name="Palette1" modified="2018-12-03 19:02:41" build="161206">
-					<value name="Name" type="string" data="Command Prompt (New Default RGB Values)"/>
+					<value name="Name" type="string" data="Command Prompt (Campbell)"/>
 					<value name="ExtendColors" type="hex" data="00"/>
 					<value name="ExtendColorIdx" type="hex" data="0e"/>
 					<value name="TextColorIdx" type="hex" data="10"/>
