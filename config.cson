@@ -1,15 +1,16 @@
 "*":
   core:
     telemetryConsent: "limited"
-  "custom-invisibles":
-    crActive: false
-    eolActive: false
+    uriHandlerRegistration: "never"
   editor:
+    fontSize: 15
     invisibles:
       cr: " "
       eol: " "
     showInvisibles: true
   "exception-reporting":
-    userId: "20decd0e-7d69-4ead-9761-221abb959282"
+    userId: "6f4e95fc-ebd1-4a3a-89ba-0c46ab44a387"
+  welcome:
+    showOnStartup: false
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
