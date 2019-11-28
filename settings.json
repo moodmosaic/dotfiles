@@ -1,17 +1,24 @@
 {
-  "editor.codeLens": false,
+  "editor.codeLens": true,
   "editor.detectIndentation": false,
-  "editor.formatOnPaste": true,
-  "editor.renderWhitespace": "boundary",
+  "editor.fontSize": 15,
+  "editor.formatOnPaste": false,
+  "editor.lineHeight": 22,
+  "editor.renderWhitespace": "selection",
   "editor.rulers": [
-    79,
-    99
+    79
   ],
   "editor.tabSize": 2,
+
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-cmd.exe",
+  "terminal.integrated.shellArgs.windows": [
+    "--command=usr/bin/bash.exe -l -i"
+  ]
 }
