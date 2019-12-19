@@ -1,8 +1,6 @@
 {
-  "editor.codeLens": true,
   "editor.detectIndentation": false,
   "editor.fontSize": 15,
-  "editor.formatOnPaste": false,
   "editor.lineHeight": 22,
   "editor.renderWhitespace": "selection",
   "editor.rulers": [
