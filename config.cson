@@ -1,5 +1,18 @@
 "*":
   core:
+    disabledPackages: [
+      "archive-view"
+      "autoflow"
+      "background-tips"
+      "exception-reporting"
+      "github"
+      "image-view"
+      "link"
+      "metrics"
+      "open-on-github"
+      "spell-check"
+      "welcome"
+    ]
     telemetryConsent: "limited"
     uriHandlerRegistration: "never"
   editor:
