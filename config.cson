@@ -12,10 +12,13 @@
       "open-on-github"
       "spell-check"
       "welcome"
+      "ide-haskell-ghcide"
+      "atom-ide-ui"
     ]
     telemetryConsent: "limited"
     uriHandlerRegistration: "never"
   editor:
+    autoIndentOnPaste: false
     fontSize: 15
     invisibles:
       cr: " "
